@@ -2,7 +2,7 @@
 
 A rough arbitrage algorithm designed to show executable arbitrage opportunities. We designed an MVP that has been profititable so far. We are still playing around with the current strategy by adding more exchanges and coin pairs to see the rate of profitable arbitrages. If any use cases of a full scale bot present themselves, we will build the automated version.
 
-![2018-03-08](https://gfycat.com/UnselfishMellowInexpectatumpleco.gif)
+![2018-03-08](https://thumbs.gfycat.com/UnselfishMellowInexpectatumpleco-size_restricted.gif)
 
 ## Roadmap: 
 [Complete] Research and conceptualize our algorithm keeping in mind existing programs such as blackbird etc
